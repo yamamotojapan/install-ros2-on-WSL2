@@ -1,5 +1,5 @@
 # install-ros2-on-WSL2
-ロボット開発に必須なROS(Robot operating system)をインストールします。このセクションでは、Windows環境及びUbuntu20環境を想定してます。尚、このチュートリアルの開始前に以下のものがインストールされている場合はアンインストールしてください。
+ロボット開発に必須なROS(Robot operating system)をインストールします。このセクションでは、Windows環境を想定してます。尚、このチュートリアルの開始前に以下のものがインストールされている場合はアンインストールしてください。
 - Windows Subsystem for Linux (WSL)
 - Windows Subsystem for Linux 2 (WSL2) 
 
