@@ -3,6 +3,10 @@
 - Windows Subsystem for Linux (WSL)
 - Windows Subsystem for Linux 2 (WSL2) 
 
+このチュートリアルは以下の環境で確認しました。
+- Windows10 22H1
+- MacBookPro 2019
+
 ## WSL2のインストール
 1. 管理者権限でPowershellを開きます。（右クリック->その他->管理者権限で実行)。そして以下のコマンドを実行してWSLをオンにします。
 
